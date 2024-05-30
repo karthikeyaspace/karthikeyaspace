@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeyaspace" alt="karthikeyaspace" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [kv3.vercel.app](kv3.vercel.app)
+- 👨‍💻 All of my projects are available at [kv3.vercel.app](https://kv3.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
