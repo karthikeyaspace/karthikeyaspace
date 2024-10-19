@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer, ML enthusiast from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [kv3.vercel.app](https://kv3.vercel.app)
+- 👨‍💻 All of my projects are available at [itskv.me](https://itskv.me)
 
 
 ## 🌐 Socials:
